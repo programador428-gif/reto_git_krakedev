@@ -1,4 +1,11 @@
-Comandos de Git
+COMANDOS DE GIT
 
 1. git clone: Se usa una sola vez al inicio para bajar el proyecto por primera vez.
+
 2. git commit: Se usa para confirmar los cambios realizados, creando una instantánea en el historial del proyecto con un ID único que permite volver a esa versión en el futuro.
+
+3. git push: Sirve para subir los cambios que ya confirmamos localmente hacia el repositorio remoto para que se actualicen en la nube.
+
+4. git status: Se usa para ver el estado actual de nuestros archivos y saber cuáles han sido modificados o cuáles están listos para el commit.
+
+5. git add: Sirve para seleccionar los archivos modificados y prepararlos antes de guardarlos definitivamente en un commit.
