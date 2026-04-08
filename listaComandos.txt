@@ -1,3 +1,4 @@
 Comandos de Git
 
 1. git clone: Se usa una sola vez al inicio para bajar el proyecto por primera vez.
+2. git commit: Se usa para confirmar los cambios realizados, creando una instantánea en el historial del proyecto con un ID único que permite volver a esa versión en el futuro.
